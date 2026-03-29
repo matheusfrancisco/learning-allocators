@@ -1,5 +1,6 @@
 mod arena;
 mod arena_offset;
+mod btree;
 
 use arena::Arena;
 
